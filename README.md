@@ -28,5 +28,3 @@ This script helps you update and upgrade your Debian-based Linux system with use
    ./linux-update-automation.sh
 
 
-
-
