@@ -1,7 +1,4 @@
 # linux-update-automation
-
-# Update and Upgrade Script
-
 This script helps you update and upgrade your Debian-based Linux system with user input for each step. The script prompts the user to confirm each action (update, upgrade, distribution upgrade, and cleanup) before proceeding.
 
 ## Prerequisites
