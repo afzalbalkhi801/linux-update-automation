@@ -3,7 +3,7 @@ This script helps you update and upgrade your Debian-based Linux system with use
 
 ## Prerequisites
 
-- A Debian-based Linux distribution (e.g., Ubuntu)
+- A Debian-based Linux distribution (e.g., Ubuntu, Kali Linux)
 - `sudo` privileges
 
 ## Usage
